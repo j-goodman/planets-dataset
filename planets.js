@@ -11,7 +11,6 @@ const planets = [
         positionFromSun: "second",
         picture: "https://solarsystem.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajl5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1771be6bd46710c30aa93cd6c3ababe23ad52681/480x320_venus.png?disposition=inline",
     },
-    
     {
         name: "Earth",
         earthDaysInYear: 365,
