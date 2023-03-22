@@ -17,6 +17,7 @@ const planets = [
         positionFromSun: "third",
         picture: "https://solarsystem.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0Z5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--95003f011b0d6a78fda6724a75d5fe39aa017fe8/earth_480x320.jpg?disposition=inline",
     },
+    
     {
         name: "Mars",
         earthDaysInYear: 687,
